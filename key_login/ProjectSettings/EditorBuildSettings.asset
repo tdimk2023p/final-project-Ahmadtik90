@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_menu.unity
+    guid: 5e0cf4780ba5684468bcb8b7fc80757a
+  - enabled: 1
+    path: Assets/Keypad/Demo1.unity
+    guid: b22e3d54b9d644efa9ba4bf9bf651a44
+  - enabled: 1
+    path: Assets/Scenes/Materi1.unity
+    guid: a0c15dc90bf70974591fb9a11b11e735
+  - enabled: 1
+    path: Assets/Keypad/Demo2.unity
+    guid: 3a41699739a86024586b3ea0e2d198b6
+  - enabled: 1
+    path: Assets/Scenes/Materi2_1.unity
+    guid: cd9befb100c2fa746b46db5b83ed6851
+  - enabled: 1
+    path: Assets/Scenes/Materi2_2.unity
+    guid: 880daba7f590a1540b7b0b9a9fb8ce57
+  - enabled: 1
+    path: Assets/Keypad/Demo3.unity
+    guid: 7022567c26714344791466948981c2b5
+  - enabled: 1
+    path: Assets/Scenes/Materi3_1.unity
+    guid: e2ad5bcab29b7d849acac26f78198436
+  - enabled: 1
+    path: Assets/Scenes/Materi3_2.unity
+    guid: e5885444c53ab1440a88f6bbfa32b3ea
+  - enabled: 1
+    path: Assets/Scenes/Materi_akhir.unity
+    guid: 19cc390518a7e4746aa8d2d03d864213
+  - enabled: 1
+    path: Assets/Scenes/Materi_Video.unity
+    guid: 33b86bd56bfa7534c991b312221a41ec
+  m_configObjects: {}
